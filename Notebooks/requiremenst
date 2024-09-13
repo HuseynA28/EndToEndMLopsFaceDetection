@@ -4,3 +4,7 @@ numpy
 Pillow 
 matplotlib
 opencv-python
+#snowflake-connector-python
+#python-dotenv
+#snowflake-connector-python[pandas]'
+
